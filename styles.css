@@ -8,9 +8,69 @@
                 padding-right:15px;
             
             }
+            .butn{
+              border:3px solid white;
+              height:50px;
+              width:150px;
+              text-align:center;
+              padding-top:10px;
+            }
             .card-img-top {
                 width: 100%;
-                height: 235px;
+                height: 400px;
                 object-fit: cover;
+                filter:drop-shadow(8px 8px 10px gray);
+            }
+            .logo{
+              font-weight:bold;
+              font-family:"lato, arapey, sans-serif";
+            }
+            nav{
+              margin-top:-20px;
+            }
+
+            .link{
+              color:rgb(102, 117, 131);
+              text-decoration:none;
+            }
+            .jumbo{
+              background:url("https://github.com/ademolabakare/travelphrase1.0/assets/106655720/57e127a5-8849-453c-b1c0-86654658ebb0");
+              filter:opacity(70%);
+              background-size:cover;
+            }
+            .text{
+              color:white;
+            }
+            .col-sm-12{
+              width:100%;
+              margin:0 auto;
+              text-align:center;
+            }
+            .head{
+              padding-top:30px;
+              font-size:24px;
+              font-weight:900;
+              
+            }
+            .banner{
+              justify-self:center;
+              text-align:center;
+              padding-top:15%;
+            }
+            .banner-txt{
+              font-size:350%;
+              
+            }
+            .sub-txt{
+              font-size:24px;
+              
+            }
+            .small{
+                font-size:10px;
+            }
+            .ad{
+              font-weight:bold;
+              font-size:30px;
+              padding:30px;
             }
           
