@@ -1,5 +1,8 @@
- body{
-                font-family:"lato";
+   @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+      @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+body{
+                font-family:"Muli";
             }
             .card{
                 padding-top:20px;
