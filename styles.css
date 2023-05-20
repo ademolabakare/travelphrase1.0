@@ -33,10 +33,17 @@ body{
               color:rgb(102, 117, 131);
               text-decoration:none;
             }
-            .jumbo{
-              background:url("https://github.com/ademolabakare/travelphrase1.0/assets/106655720/57e127a5-8849-453c-b1c0-86654658ebb0");
-              filter:opacity(70%);
-              background-size:cover;
+                        .img-x {
+              max-width: 100%;
+              max-height: 100%;
+              width: auto;
+              height: auto;
+              justify-self: center;
+            }
+            .jumbo {
+              display: flex;
+              justify-content: center;
+              align-items: center;
             }
             .text{
               color:white;
