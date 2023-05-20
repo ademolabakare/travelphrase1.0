@@ -24,12 +24,10 @@ body{
                 filter:drop-shadow(8px 8px 10px gray);
             }
             .logo{
-              font-weight:bold;
-              font-family:"sofia, arapey, sans-serif";
+              font-weight:900;
+              font-family:"sofia";
             }
-            nav{
-              margin-top:-20px;
-            }
+          
 
             .link{
               color:rgb(102, 117, 131);
