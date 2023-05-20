@@ -1,8 +1,7 @@
-   @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
-      @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+ 
 
 body{
-                font-family:"sofia";
+                font-family:"lato";
             }
             .card{
                 padding-top:20px;
@@ -26,7 +25,7 @@ body{
             }
             .logo{
               font-weight:bold;
-              font-family:"lato, arapey, sans-serif";
+              font-family:"sofia, arapey, sans-serif";
             }
             nav{
               margin-top:-20px;
